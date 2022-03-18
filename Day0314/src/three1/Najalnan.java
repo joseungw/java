@@ -1,0 +1,33 @@
+package three1;
+
+public class Najalnan {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//t a=60;
+		//t b=70;
+		//t c=80;
+		//t d=50;
+		//t e=30;
+		
+		//t total=a+b+c+d+e;
+		//stem.out.println("ÃÑÇÕ°è"+total);
+		
+		//oat p = total/5;
+		//stem.out.println("Æò±Õ"+p);
+		
+		//stem.out.println("³ªÀß³­ÀÇ ¼ºÀû ÃÑÇÕ°è´Â"+total+"ÀÔ´Ï´Ù."+"Æò±ÕÀº"+p+"ÀÔ´Ï´Ù.");
+		
+		int x = 2;
+		
+		if ( x % 2 == 0 )
+		{
+			System.out.println("Â¦¼ö");
+		}
+		else
+		{
+			System.out.println("È¦¼ö");
+		}
+	}
+
+}

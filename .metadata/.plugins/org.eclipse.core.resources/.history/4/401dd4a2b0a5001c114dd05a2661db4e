@@ -1,0 +1,13 @@
+
+public class Forex {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int n = 0;
+		for ( n=0; n<7; n++)
+		{
+			System.out.println("알의 개수"+n);
+		}
+	}
+
+}

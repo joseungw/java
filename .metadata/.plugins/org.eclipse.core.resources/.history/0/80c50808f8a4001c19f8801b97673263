@@ -1,0 +1,16 @@
+package bok;
+
+import java.util.Scanner;
+
+public class Ex2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc= new Scanner(System.in);
+		System.out.println("¼·¾¾¿Âµµ´Â?");
+		float a =sc.nextInt();
+				
+		System.out.println("È­¾¾¿Âµµ´Â"+(a+32)*1.8f++"ÀÔ´Ï´Ù");		
+	}
+
+}

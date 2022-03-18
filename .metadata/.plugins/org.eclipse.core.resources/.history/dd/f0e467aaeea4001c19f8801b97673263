@@ -1,0 +1,15 @@
+package bok;
+
+public class Scanchar {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		int value=sc.nextlnt();
+		char value2=(char)value;
+		
+		
+		
+	}
+
+}

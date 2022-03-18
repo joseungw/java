@@ -1,0 +1,30 @@
+package three1;
+
+public class Control2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int gender = 3;
+		
+		if (gender==2||gender==4)
+		{
+			System.out.println("여자");
+		}
+		else
+		{
+			System.out.println("남자");
+		} 
+		
+		int score=86;
+		
+		if(score>=60)
+		{
+			System.out.println("합격");
+		}
+		else
+		{
+			System.out.println("불합격");
+		
+	}
+
+}

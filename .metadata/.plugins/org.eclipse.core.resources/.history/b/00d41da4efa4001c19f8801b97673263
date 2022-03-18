@@ -1,0 +1,19 @@
+package bok;
+
+import java.util.Scanner;
+
+public class Scanchar {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("알파벳을 입력해주세요");
+		int value = sc.nextInt();
+		char value2=(char)value;
+		
+		
+		
+	}
+
+}

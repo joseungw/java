@@ -1,0 +1,23 @@
+package three1;
+
+public class Najalnan {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a=60;
+		int b=70;
+		int c=80;
+		int d=50;
+		int e=30;
+		
+		int total=a+b+c+d+e;
+		System.out.println("ÃÑÇÕ°è"+total);
+		
+		float p = total/5;
+		System.out.print("Æò±Õ"+p);
+		
+		System.out.println("³ªÀß³­ÀÇ ¼ºÀû ÃÑÇÕ°è´Â );
+				
+	}
+
+}
